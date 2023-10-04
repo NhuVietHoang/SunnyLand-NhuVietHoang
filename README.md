@@ -1,5 +1,5 @@
 # SunnyLand-NhuVietHoang
-Tải và cài đặt trong folder Builds
+Tải và cài đặt file Builds
 ## Một số hình ảnh trong game:
 ![image](https://github.com/NhuVietHoang/SunnyLand-NhuVietHoang/assets/97096374/4d109405-4792-4d6e-89c5-85d8298f2a8e)
 ![image](https://github.com/NhuVietHoang/SunnyLand-NhuVietHoang/assets/97096374/ea99ff55-f3af-49c2-b5fa-e9d76d1336f7)
